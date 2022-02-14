@@ -2,7 +2,7 @@
   
   # Generate a readme
 
-  Easily generate a readme file for various projects you may complete!
+  Easily generate a readme file for various projects you may complete! (*This readme was generated using my application!*)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -31,8 +31,11 @@
 ---
 
 ## Visuals:
+<img width="541" alt="af5bcf9775ac954283ec4d3a66d8fb62" src="https://user-images.githubusercontent.com/92896466/153789061-dd574ad4-3797-4dc1-afca-e399fba74bb2.png">
+<img width="1005" alt="e3122dae22bb1c30ad0e41f171484898" src="https://user-images.githubusercontent.com/92896466/153789213-d2b7fad9-3081-405e-8ffd-71c05b0404e3.png">
 
-  ![]()
+
+
 
 ---
 
