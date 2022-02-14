@@ -2,7 +2,7 @@
   
   # Generate a readme
 
-  Easily generate a readme file for various projects you may complete!
+  Easily generate a readme file for various projects you may complete! (*This readme was generated using my application!*)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
