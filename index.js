@@ -19,7 +19,7 @@ async function init() {
     answers.licenseBadge = licenseBadge(answers.license);
     // generate markdown of input into inquirer
     let readMeData = generateMarkdown(answers);
-    await writeFileAsync("./GeneratedReadme/Generated-Readme.md", readMeData);
+    await writeFileAsync("./GeneratedReadme/generated-readme.md", readMeData);
   } catch (err) {
     throw err;
   }

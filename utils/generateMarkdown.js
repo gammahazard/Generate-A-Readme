@@ -13,29 +13,32 @@ function generateMarkdown(data) {
   (${data.URL})
   
 ---
-  ## Contents
+
+  # Contents
 
   1. [Details about my project](#about)
       1. [Visuals](#visuals)
   2. [Installation](#installation)
   3. [License](#license)
-  4. [Creator(s)](#creators)
+  4. [Testing](#test)
+  5. [Creator(s)](#creators)
+  6. [Contributions](#contributions)
 
 ---
-  ## About
+
+## About
 
   ${data.about}
 
 ---
---- 
----
-  ## Visuals:
+
+## Visuals:
 
   ![]()
 
 ---
 
-  ## Installation:
+## Installation:
   ${data.installation}
 
   To clone the repo:
@@ -51,12 +54,32 @@ function generateMarkdown(data) {
 
 ---
 
-  ## Creator(s)
+## Test
+  ${data.test}
+
+---
+
+---
+
+## Creator(s)
   ${data.author}
 
 ---
 
-  ### Contact Information:
+---
+
+## Contributions
+  To contribute to this application, create a pull request.
+  - Fork the interested repo
+  - Create a new branch for indicated feature
+  - Commit new feature
+  - Push your branch
+  - Create a new pull request
+  Upon review, your feature will be merged!
+
+---
+
+## Contact:
     *GitHub Username: ${data.userName}
     *GitHub Email: ${data.userEmail}
   

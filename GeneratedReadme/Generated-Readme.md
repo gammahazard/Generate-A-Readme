@@ -1,60 +1,83 @@
 
   
-  # Test Title1
+  # Generate a readme
 
-  test one-sentence description 1
+  Easily generate a readme file for various projects you may complete!
 
-  [![License: Boost](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   [A deployed version can be viewed here.:]
   
-  (test url live site)
+  (https://github.com/gammahazard/Generate-A-Readme)
   
 ---
-  ## Contents
+
+  # Contents
 
   1. [Details about my project](#about)
       1. [Visuals](#visuals)
   2. [Installation](#installation)
   3. [License](#license)
-  4. [Creator(s)](#creators)
+  4. [Testing](#test)
+  5. [Creator(s)](#creators)
+  6. [Contributions](#contributions)
 
 ---
-  ## About
 
-  test more details 1
+## About
+
+  Upon running the application in your command line, you will be asked various questions about your project, after answering them a markdown file will be generated. This markdown file will contain your project information organized with a table of contents describing your project and any necessary information.
 
 ---
---- 
----
-  ## Visuals:
+
+## Visuals:
 
   ![]()
 
 ---
 
-  ## Installation:
-  test installation isntruc 1
+## Installation:
+  After downloading the repository, simply run npm install to get the required packages from the packages.json file.
 
   To clone the repo:
   
-      git clone test clone repo link 1
+      git clone https://github.com/gammahazard/Generate-A-Readme.git
   
 ---
 
   ## License
-  License used for this project - Boost
+  License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
 
-  ## Creator(s)
-  test name
+## Test
+  NA
 
 ---
 
-  ### Contact Information:
-    *GitHub Username: test github user
-    *GitHub Email: test github email
+---
+
+## Creator(s)
+  Navraj Dhaliwal
+
+---
+
+---
+
+## Contributions
+  To contribute to this application, create a pull request.
+  - Fork the interested repo
+  - Create a new branch for indicated feature
+  - Commit new feature
+  - Push your branch
+  - Create a new pull request
+  Upon review, your feature will be merged!
+
+---
+
+## Contact:
+    *GitHub Username: gammahazard
+    *GitHub Email: navraj777@hotmail.com
   
